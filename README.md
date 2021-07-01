@@ -1,8 +1,8 @@
-I am Robin.
-I am currently teaching myself how to code.
-My prefered language as of now is Python. However I am looking to get into C++ as my second language.
+I am Robin. \n
+I am currently teaching myself how to code. \n
+My prefered language as of now is Python. However I am looking to get into C++ as my second language. \n
 
-Looking to meet fellow programmers and expand my knowledge.
+Looking to meet fellow programmers and expand my knowledge. \n
 
 - 📫 Send a message on Github.
 
