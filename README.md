@@ -1,10 +1,12 @@
-I am Robin. \n
-I am currently teaching myself how to code. "\n"
-My prefered language as of now is Python. However I am looking to get into C++ as my second language. "\n"
+I am Robin. 
 
-Looking to meet fellow programmers and expand my knowledge. "\n"
+I am currently teaching myself how to code. 
 
-- 📫 Send a message on Github.
+My prefered language is Python. However I am looking to get into C++ as my second language.
+
+Looking to meet fellow programmers and expand my knowledge.
+
+If you have any questions or general ideas, feel free to contact me on Github.
 
 <!---
 Robinborg/Robinborg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
