@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Robinborg
-- 👀 I’m interested in Python and using it for machine learning.
-- 🌱 I’m currently learning machine learning through Coursera and personal projects on Kaggel and Numerai.
-- 💞️ I’m looking to collaborate on machine learning projects and programs.
+I am Robin.
+I am currently teaching myself how to code.
+My prefered language as of now is Python. However I am looking to get into C++ as my second language.
+
+Looking to meet fellow programmers and expand my knowledge.
+
 - 📫 Send a message on Github.
 
 <!---
