@@ -4,7 +4,6 @@ I am currently teaching myself how to code.
 
 My prefered language is Python. However I am looking to get into C++ as my second language.
 
-Looking to meet fellow programmers.
 
 If you have any questions or general ideas, feel free to contact me on Github.
 
