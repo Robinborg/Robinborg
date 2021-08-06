@@ -1,8 +1,15 @@
-I am Robin. 
+Hello, 
+My name is Robin.
 
-I am currently teaching myself how to code. 
+In 2020 I found out that I loved to code. 
 
-My prefered language is Python. However I am looking to get into C++ as my second language.
+After jumping headfirst into coding, I have started to focus on machine learning and the fundamentals of programming.
+
+I have gone through all the different ways of learning: youtube, tutorials and projects. 
+
+Now I am coding my own projects to truly learn every aspect of programming.
+
+I have a burning desire to become an expert in machine learning.
 
 
 If you have any questions or general ideas, feel free to contact me on Github.
