@@ -1,15 +1,8 @@
 Hello, 
-My name is Robin.
 
-In 2020 I found out that I loved to code. 
+In 2020 I found coding.
 
-After jumping headfirst into coding, I have started to focus on machine learning and the fundamentals of programming.
-
-
-I have a burning desire to become an expert in machine learning.
-
-
-If you have any questions or general ideas, feel free to contact me.
+I want to learn everything about machine learning and AI.
 
 <!---
 Robinborg/Robinborg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
