@@ -1,4 +1,4 @@
-# Hello I am Robin Borgström. 
+# Hello I am Robin Borgström 👋
 I am teaching myself Python to become a data scientist.
 ## About me
 - 🔭 I am currently working on a learning program
