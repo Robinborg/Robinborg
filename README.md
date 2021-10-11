@@ -1,9 +1,10 @@
-Hello, 
+# Hello I am Robin Borgström. 
+I am teaching myself Python to become a data scientist.
+## About me
+- 🔭 I am currently working on a learning program
+- 🌱 I am currently learning from a book called "Data science from scratch"
+- 👯‍♀️ I am looking to collaborate on any project that relates to data science
 
-In 2020 I found coding.
-
-Learning to master the fundamentals of Python and machine learning.
-The dream is to one day be able to contribute to the machine learning community.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
