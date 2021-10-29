@@ -1,7 +1,7 @@
 # Hello I am Robin Borgström 👋
 I am teaching myself Python to become a data scientist.
 ## About me
-- 🔭 I am currently working on a learning program
+- 🔭 I am currently working on landing my first job as a programmer
 - 🌱 I am currently learning from a book called "Data science from scratch"
 - 👯‍♀️ I am looking to collaborate on any project that relates to data science
 
