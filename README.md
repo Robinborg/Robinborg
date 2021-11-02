@@ -1,9 +1,11 @@
-# Hello I am Robin Borgström 👋
-I am teaching myself Python to become a data scientist.
+![my_banner](https://github.com/Robinborg/images/blob/main/Ma%20publication.png)
+
+# I am a self-taught programmer
+
 ## About me
 - 🔭 I am currently working on landing my first job as a programmer
-- 🌱 I am currently learning from a book called "Data science from scratch"
-- 👯‍♀️ I am looking to collaborate on any project that relates to data science
+- 🌱 I am currently learning data science
+- 👯‍♀️ I am looking to collaborate on data science projects
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
