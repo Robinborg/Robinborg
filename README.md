@@ -4,8 +4,8 @@
 
 ## About me
 - 🔭 I am currently working on landing my first job as a programmer
-- 🌱 I am currently learning data science
-- 👯‍♀️ I am looking to collaborate on data science projects
+- 🌱 I am currently learning C++ on ![Udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+- 👯‍♀️ I am looking to collaborate on open-source projects
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
