@@ -4,7 +4,8 @@
 
 ## About me
 I am working to be good at programming.
-My favorite books are The art of computer programming.
+
+My book collection just grew to include "The art of computer programming" by Donald Knuth, and I could not be happier.
 
 I have recently started learning Go programming.
 
