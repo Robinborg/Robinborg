@@ -4,7 +4,7 @@
 
 ## About me
 - 🔭 I am currently working on landing my first job as a programmer
-- 🌱 I am currently learning C++ on [Udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+- 🌱 I am currently learning go
 - 👯‍♀️ I am looking to collaborate on open-source projects
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
