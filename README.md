@@ -1,9 +1,7 @@
-![my_banner](https://github.com/Robinborg/images/blob/main/Ma%20publication.png)
-
 # I am a self-taught programmer
 
 ## About me
-I am working to be good at programming.
+I enjoy writing code.
 
 My book collection just grew to include "The art of computer programming" by Donald Knuth, and I could not be happier.
 
