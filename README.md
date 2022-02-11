@@ -1,4 +1,4 @@
-# I am a self-taught programmer
+# I am a Junior Software Developer
 
 ## About me
 I enjoy writing code.
