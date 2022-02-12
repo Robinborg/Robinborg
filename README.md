@@ -5,7 +5,7 @@ I enjoy writing code.
 
 My book collection just grew to include "The art of computer programming" by Donald Knuth, and I could not be happier.
 
-I have recently started learning Go programming.
+I am learning Go programming.
 
 
 <!---
