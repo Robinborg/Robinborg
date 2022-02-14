@@ -3,9 +3,9 @@
 ## About me
 I enjoy writing code.
 
-My book collection just grew to include "The art of computer programming" by Donald Knuth, and I could not be happier.
+My days are spent in front of the Keyboard or reading about Computers and Mathematics.
 
-I am learning Go programming.
+I started learning Go to be able to build large scale applications and understand Kubernetes and Docker.
 
 
 <!---
