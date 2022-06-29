@@ -3,6 +3,7 @@
 ## About me
 Full Stack Developer<br/>
 <br/>
+Writing backend programs with Django.<br/>
 Writing ORM programs with Python.<br/>
 Writing webscraping programs with Python.<br/>
 Writing command line programs with Python.<br/>
