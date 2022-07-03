@@ -1,16 +1,10 @@
 # Robin Borgström
 
 ## About me
-Programmer<br/>
-<br/>
-Writing Django websites with Python.<br/>
-Writing ORM programs with Python.<br/>
-Writing webscraping programs with Python.<br/>
-Writing command line programs with Python.<br/>
-Writing Websites with React, Javascript, HTML and CSS.<br/>
-Writing algorithms in Python, Javascript and C++.<br/>
-
 I enjoy writing code.<br/>
+Programming languages: [Python, Javascript, C++]<br/>
+Frontend: [HTML, CSS, React]<br/>
+Backend: [SQL, Django, SQLAlchemy]<br/>
 My days are spent coding or reading material to become a better coder<br/>
 
 <!---
