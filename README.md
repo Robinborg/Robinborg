@@ -1,11 +1,19 @@
 # Robin Borgström
 
 ## About me
-I enjoy writing code.<br/>
-Programming languages: [Python, Javascript, C++]<br/>
-Frontend: [HTML, CSS, React]<br/>
-Backend: [SQL, Django, SQLAlchemy]<br/>
-My days are spent coding or reading material to become a better coder<br/>
+Working as a Full-stack developer. <br/>
+Working with React, Redux, ASP.Net, C# and TSQL.<br/>
+<br/>
+
+## Knowledge 
+| Programming Language | Front end  | Back end   | Security         |
+| ---                  | ---        | ---        | ---              |
+| Javascript           | HTML       | ASP.NET    | IdentityServer 4 |
+| C#                   | CSS        | TSQL       |                  |
+| Python               | React      | .NET Core  |                  |
+|                      | Redux      | Django     |                  |
+|                      | Redux-Saga | SQLAlchemy |                  |
+|                      | i18next    |            |                  |
 
 <!---
 Robinborg/Robinborg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
