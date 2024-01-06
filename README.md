@@ -6,11 +6,11 @@ Working with React, Redux, ASP.Net, C# and TSQL.<br/>
 <br/>
 
 ## Knowledge 
-| Programming Language | Front end  | Back end   | Security         |
+| Programming Language | Front end  | Back end   | Other            |
 | ---                  | ---        | ---        | ---              |
-| Javascript           | HTML       | ASP.NET    | IdentityServer 4 |
-| C#                   | CSS        | TSQL       |                  |
-| Python               | React      | .NET Core  |                  |
+| Javascript           | HTML       | ASP.NET    | Azure            |
+| C#                   | CSS        | TSQL       | OIDC             |
+| Python               | React      | .NET Core  | IdentityServer 4 |
 |                      | Redux      | Django     |                  |
 |                      | Redux-Saga | SQLAlchemy |                  |
 |                      | i18next    |            |                  |
